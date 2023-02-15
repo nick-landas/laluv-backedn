@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fan: one
+  parlor: one
+  last_viewed: 2023-02-15 00:18:35
+
+two:
+  fan: two
+  parlor: two
+  last_viewed: 2023-02-15 00:18:35
